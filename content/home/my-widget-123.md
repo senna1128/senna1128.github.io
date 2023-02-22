@@ -3,6 +3,7 @@ widget: Accomplishments
 widget_id: my-widget-123
 headless: true
 weight: 10
+title: ABCDEF
 active: true
 design:
   columns: "2"
