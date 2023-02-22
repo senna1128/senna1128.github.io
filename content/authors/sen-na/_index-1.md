@@ -2,6 +2,7 @@
 title: Sen Na
 role: Postdoc in the Department of Statistics and International Computer Science
   Institute
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
