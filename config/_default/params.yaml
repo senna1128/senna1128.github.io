@@ -24,23 +24,23 @@ twitter: ''
 email: senna@berkeley.edu
 phone:
 address:
-  street: 5807 South Woodlawn Ave
-  city: Chicago
-  region: IL
-  postcode: '60637'
+  street: 367 Evans Hall Room 473, University of California, Berkeley
+  city:
+  region: CA
+  postcode: '94720'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Harper Center, Suite 338
+  latitude: '37.5225 N'
+  longitude: '-122.1528 W'
+directions: 
 office_hours:
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: https://twitter.com/mkolar'
+  - icon: 
+    icon_pack: 
+    name: 
+    link: 
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -192,6 +192,10 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+icon:
+  pack:
+    ai: true
+
 
 # Security
 

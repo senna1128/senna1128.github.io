@@ -15,7 +15,7 @@ organizations:
     url: https://www.berkeley.edu/
     
 interests:
-  - High-Dim estimation, inference
+  - High-dim estimation \& inference
   - Probabilistic graphical models
   - Semiparametric models
   - Stochastic optimization 
@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Statistics
-    institution: The University of Chicago
+    institution: University of Chicago
     year: 2021
   - course: B.S. in Mathematics
     institution: Nanjing University
