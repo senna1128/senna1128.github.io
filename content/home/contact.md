@@ -1,19 +1,45 @@
-+++
-# Contact widget.
-widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+---
+# An instance of the Contact widget.
+widget: contact
 
-title = "Contact"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-# Automatically link email and phone?
-autolink = true
+# Order that this section appears on the page.
+weight: 130
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 0
-+++
+title: Contact
+subtitle:
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form: 
+
+  # Contact details (edit or remove options as required)
+  email: senna@berkeley.edu
+  phone: 
+  address:
+    street: 367 Evans Hall Room 473, University of California, Berkeley
+    city: 
+    region: CA
+    postcode: '94720'
+    country: United States
+    country_code: US
+  coordinates:
+    latitude: '37.5225 N'
+    longitude: '-122.1528 W'
+  directions: 
+  office_hours:
+  appointment_url: 
+  contact_links:
+    - icon: 
+      icon_pack: 
+      name: 
+      link: 
+
+design:
+  columns: '2'
+---

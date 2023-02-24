@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: orange
+  theme_night: orange
   font: ''
   font_size: L
 
@@ -21,26 +21,26 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Mladen.Kolar@ChicagoBooth.edu
+email: senna@berkeley.edu
 phone:
 address:
-  street: 5807 South Woodlawn Ave
-  city: Chicago
-  region: IL
-  postcode: '60637'
+  street: 367 Evans Hall Room 473, University of California, Berkeley
+  city:
+  region: CA
+  postcode: '94720'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Harper Center, Suite 338
+  latitude: '37.5225 N'
+  longitude: '-122.1528 W'
+directions: 
 office_hours:
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: https://twitter.com/mkolar'
+  - icon: 
+    icon_pack: 
+    name: 
+    link: 
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -100,10 +100,10 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   diagram: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/senna1128/MyWebSite'
     content_dir: content
@@ -184,6 +184,7 @@ features:
     baidu_site_verification: ''
     baidu_tongji: ''
 
+    
 # Extensions
 
 extensions:
@@ -192,6 +193,10 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+icon:
+  pack:
+    ai: true
+
 
 # Security
 

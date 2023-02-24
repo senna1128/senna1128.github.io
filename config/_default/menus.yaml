@@ -10,21 +10,24 @@ main:
   - name: Research
     url: 'research/'
     weight: 20
-  - name: Publications
-    url: 'publications/'
+  - name: Papers
+    url: 'publication/'
     weight: 30
   - name: Talks
     url: 'talks/'
     weight: 40
   - name: Service
     url: 'service/'
-    weight: 50  
+    weight: 50
+  - name: Misc
+    url: 'misc/'
+    weight: 60    
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/CV_SenNa.pdf
-    weight: 70
+    weight: 80

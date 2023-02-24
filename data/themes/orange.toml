@@ -1,0 +1,26 @@
+# Theme metadata
+name = "orange"
+
+[light]
+  # Primary
+  primary = "#006EFE"
+
+  link = "#ff000"
+  link_hover = "#aa0000"
+
+  # Menu
+  menu_primary = "#3385FF" # 500
+  menu_text = "rgba(50,50,50,0.9)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "rgb(247, 247, 247)"
+  home_section_even = "rgb(237, 237, 237)"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#ff000"
+  link_hover = "#ff9999"
