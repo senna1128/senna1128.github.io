@@ -8,7 +8,7 @@ superuser: true
 
 role: Postdoc in Statistics and ICSI
 
-bio: Sen Na is a postdoctoral researcher in the Statistics department and ICSI at UC Berkeley, working with Michael W. Mahoney. His research interests broadly lie in the mathematical foundation of data science, including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
+bio: Sen Na is a postdoctoral scholar in the Statistics department and ICSI at UC Berkeley, working with Michael W. Mahoney. His research interests broadly lie in the mathematical foundation of data science, including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
 
 organizations:
   - name: University of California, Berkeley
@@ -33,7 +33,7 @@ education:
   - course: Exchange student in Statistics
     institution: University of California, Davis
     year: 2015
-  
+
 social:
 - icon: envelope
   icon_pack: fas
