@@ -8,46 +8,79 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: ''
   font_size: L
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+twitter: ''
+
+# Contact (edit or remove options as required)
+
+email: Mladen.Kolar@ChicagoBooth.edu
+phone:
+address:
+  street: 5807 South Woodlawn Ave
+  city: Chicago
+  region: IL
+  postcode: '60637'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+directions: Harper Center, Suite 338
+office_hours:
+appointment_url: ''
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: https://twitter.com/mkolar'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
+
 
 # Site header
 
-header:
-  navbar:
-    enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+
+# Localization
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -60,22 +93,69 @@ locale:
 # Site features
 
 features:
+  highlight: true
+  highlight_languages:
+    - r
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
   math:
     enable: false
+  diagram: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/senna1128/MyWebSite'
     content_dir: content
     branch: main
+  edit_page:
+    repo_url: ''
+    content_dir: ''
+    repo_branch: main
+    editable:
+      page: false
+      post: false
+      book: false
+  show_related:
+    book: true
+    page: false
+    post: true
+    project: true
+    publication: true
+    event: true
+  reading_time: true
+  section_pager: false
+  docs_section_pager: true
+  sharing: true
+  copyright_license:
+    enable: false
+    allow_derivatives: false
+    share_alike: true
+    allow_commercial: false
+    notice: 'This work is licensed under {license}'
+  abstract_length: 135
+  plugins_js: []
   avatar:
     gravatar: false
     shape: circle
+  publications:
+    date_format: January 2006
+    citation_style: mla
+  projects:
+    post_view: 2
+    publication_view: 2
+    talk_view: 2
+  breadcrumb:
+    page_types:
+      book: true
   comment:
     provider: ''
+    commentable:
+      post: true
+      book: true
+      project: true
+      publication: true
+      event: true
     disqus:
       shortname: ''
       show_count: true
@@ -97,6 +177,12 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  marketing:
+    google_analytics: 'UA-163542179-1'
+    google_tag_manager: ''
+    google_site_verification: ''
+    baidu_site_verification: ''
+    baidu_tongji: ''
 
 # Extensions
 
