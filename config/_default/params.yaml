@@ -83,19 +83,12 @@ footer:
       share_alike: false
       allow_commercial: false
 
-# Localization
-
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
 # Site features
 
 features:
   highlight: true
   highlight_languages:
-    - r
+    - r, latex
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
@@ -103,10 +96,10 @@ features:
     enable: true
   diagram: false
   privacy_pack:
-    enable: true
+    enable: false
   repository:
-    url: 'https://github.com/senna1128/MyWebSite'
-    content_dir: content
+    url: ''
+    content_dir: ''
     branch: main
   edit_page:
     repo_url: ''
@@ -138,9 +131,6 @@ features:
   avatar:
     gravatar: false
     shape: circle
-  publications:
-    date_format: January 2006
-    citation_style: mla
   projects:
     post_view: 2
     publication_view: 2
@@ -183,13 +173,16 @@ features:
     google_site_verification: ''
     baidu_site_verification: ''
     baidu_tongji: ''
+publications:
+  date_format: January 2006
+  citation_style: mla
 
     
 # Extensions
 
 extensions:
   cms:
-    branch: main
+    branch: master
     local_backend: false
   academicons:
     enable: true
@@ -202,4 +195,4 @@ icon:
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: false
