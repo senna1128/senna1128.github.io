@@ -56,15 +56,16 @@ contact_links:
 
 
 # Site header
-
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  on_scroll: false # anything different from "disappear"
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
 # Localization
 
