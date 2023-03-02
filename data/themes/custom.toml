@@ -1,0 +1,26 @@
+# Theme metadata
+name = "Custom"
+
+# Is theme light or dark?
+light = true
+
+
+# Primary
+primary = "#c67439"
+# primary = "#6678bc"
+
+# Menu
+menu_primary = "#142023"
+menu_text = "#EEE2DC"
+menu_text_active = "#c67439"
+# menu_text_active = "#6678bc"
+menu_title = "#EEE2DC"
+
+# Backgrounds
+background = "#f6f0ed"
+home_section_odd = "#f6f0ed"
+home_section_even = "#f6f0ed"
+
+#EEE2DC is a nice grayish pink - slightly too dark for background?
+
+font = "my_fonts"
