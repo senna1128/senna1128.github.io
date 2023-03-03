@@ -74,7 +74,7 @@ More specifically, the components of constrained problems under investigation ca
 - The loss functions can be in purely stochastic form $E_{\xi\sim\mathcal{P}}[f(\boldsymbol{x};\xi)]$, empirical finite-sum form $\frac{1}{n}\sum_{i=1}^{n}f_i(\boldsymbol{x})$, or integral form $\int_{t\in\mathcal{T}}(\boldsymbol{x}(t) - \boldsymbol{x}_{ref}(t))^2 dt$. 
 - The constraints on $\boldsymbol{x}$ can be in equality, inequality, deterministic, or expected forms. In addition, $\boldsymbol{x}$ can be restricted on Riemannian manifolds or satisfy some PDEs.
 
-Due to the nonlinearity of constraints, the projected first-order methods are often not applicable. Thus, I primarily focus on second-order primal-dual methods, but Hessians can be approximated imprecisely. 
+Due to the nonlinearity of constraints, the projected first-order methods are often not applicable. Thus, I primarily focus on second-order primal-dual methods, and allow Hessians to be approximated imprecisely. 
 
 
 
