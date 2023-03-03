@@ -78,3 +78,7 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+cascade:
+  - _target:
+      page: "*"
+    header.on_scroll: false

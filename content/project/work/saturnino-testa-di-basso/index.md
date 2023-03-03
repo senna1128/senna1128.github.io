@@ -4,8 +4,10 @@ summary: An example of using the in-built project page.
 tags: [dev,multimedia,work]
 date: "1995-04-27T00:00:00Z"
 
+featured: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+
 
 links:
 url_code: ""
