@@ -50,7 +50,7 @@ design:
   flip_alt_rows: false
 ---
 
-I was trained as a [statistician](https://en.wikipedia.org/wiki/Statistician) in my Ph.D. study, but my research interests span high-dimensional statistics, nonlinear and nonconvex optimization, control theory, and scientific machine learning. My ultimate research goal is to develop a new generation of **<span style='color: red;'>stochastic numerical methods</span>** that exhibit promising **<span style='color: red;'>statistical and computational efficiency</span>** for solving knotty problems that appeared in statistics and engineering.
+I was trained as a [statistician](https://en.wikipedia.org/wiki/Statistician) in my Ph.D. study, but my research interests span high-dimensional statistics, nonlinear and nonconvex optimization, control theory, and scientific machine learning. My ultimate research goal is to develop a new generation of **<span style='color: red;'>stochastic numerical methods</span>** that exhibit promising **<span style='color: red;'>statistical and computational efficiency</span>** for solving knotty problems in statistics and engineering.
 
 I develop practical methods by leveraging classical optimization techniques (e.g., exact penalty, augmented Lagrangian, trust region, active set, and interior-point methods) and reforming these techniques to address pressing modern challenges, such as **<span style='color: red;'>scalability</span>**, **<span style='color: red;'>reliability</span>**, and **<span style='color: red;'>adaptivity</span>**.
 
@@ -62,19 +62,6 @@ Toward the ultimate goal, my current research mainly includes the following topi
 * <font size="3"> Stochastic real-time optimal control \& model predictive control </font> 
 * <font size="3"> Semiparametric graphical models </font> 
 
-There are **<span style='color: red;'>three common threads</span>** of the above topics: 
-
-* We recover model parameters by optimizing certain loss functions that can only be evaluated in a **<span style='color: red;'>noisy</span>** way. 
-* The model parameters have to satisfy constraints in a **<span style='color: red;'>hard</span>** way, which do not merely provide suggestions and lead to an inductive bias.
-* The uncertainty quantification and inference of the methods are crucial to draw any **<span style='color: red;'>statistically significant</span>** conclusions.  
-
-More specifically, the components of constrained problems under investigation can be summarized as follows: 
-- The model parameters $\boldsymbol{x}$ can be in low, high, or infinite dimensions (e.g., policy mapping in control problems). 
-
-- The loss functions can be in purely stochastic form $E_{\xi\sim\mathcal{P}}[f(\boldsymbol{x};\xi)]$, empirical finite-sum form $\frac{1}{n}\sum_{i=1}^{n}f_i(\boldsymbol{x})$, or integral form $\int_{t\in\mathcal{T}}(\boldsymbol{x}(t) - \boldsymbol{x}_{ref}(t))^2 dt$. 
-- The constraints on $\boldsymbol{x}$ can be in equality, inequality, deterministic, or expected forms. In addition, $\boldsymbol{x}$ can be restricted on Riemannian manifolds or satisfy some PDEs.
-
-Due to the nonlinearity of constraints, the projected first-order methods are often not applicable. Thus, I primarily focus on second-order primal-dual methods, and allow Hessians to be approximated imprecisely. 
 
 
 
