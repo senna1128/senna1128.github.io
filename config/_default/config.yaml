@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SEN NA # Website name
-baseURL: 'https://senna1128.github.io/' # Website URL
+baseURL: 'https://senna1128.github.io/MyWebSite' # Website URL
 #copyright: '' # Footer text, e.g. '© {year} Me'
 #relativeURLS: true
 #canonifyurls: true
