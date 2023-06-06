@@ -59,14 +59,14 @@ subtitle = ""
 
 ## Teaching Assistant <span style="float:right;">UChicago</span>
 - <font size="3">STAT 234: Statistical Models and Method </font> <br>
-*Instructor*: [Yali Amit](https://www.stat.uchicago.edu/~amit/), Linda Brant Collins
+Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/), Linda Brant Collins
 
 - <font size="3"> STAT 244: Statistical Theory and Method </font><br>
-*Instructor*: [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/)
+Instructor: [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/)
 
 - <font size="3"> STAT 315: Stochastic Simulation</font><br>
-*Instructor*: [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/)
+Instructor: [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/)
 
 - <font size="3"> STAT 376: Machine Learning and Large-Scale Data Analysis </font><br>
-*Instructor*: [Yali Amit](https://www.stat.uchicago.edu/~amit/)
+Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/)
 

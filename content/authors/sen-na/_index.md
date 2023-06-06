@@ -8,7 +8,8 @@ superuser: true
 
 role: Postdoc in Statistics and ICSI
 
-bio: Sen Na is a postdoctoral scholar in the Statistics department and ICSI at UC Berkeley. His research interests broadly lie in the mathematical foundation of data science, including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
+bio: Sen Na is a postdoctoral scholar in the Statistics department and ICSI at UC Berkeley. His research interests broadly lie in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in applying machine learning methods in biology, neuroscience, and engineering.
+
 
 organizations:
   - name: University of California, Berkeley
@@ -64,8 +65,10 @@ email: "senna@berkeley.edu"
 
 #use {style="text-align: justify;"} for text align below
 ---
-I am currently a postdoc in the [Department of Statistics](https://statistics.berkeley.edu/) and [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) at UC Berkeley, working with [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/).
+I am currently a postdoc in the [Department of Statistics](https://statistics.berkeley.edu/) and the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) at UC Berkeley, working with [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/).
 
 I received my Ph.D. degree in statistics from the University of Chicago in 2021, under the supervision of [Mihai Anitescu](https://www.mcs.anl.gov/~anitescu/) and [Mladen Kolar](https://mkolar.coffeejunkies.org/). Before attending UChicago, I received my B.S. degree in mathematics from Nanjing University in 2016. I was also very fortunate to visit the Statistics department at UC Davis and work with [Jane-Ling Wang](http://www.stat.ucdavis.edu/~wang/), [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/), and [Christiana Drake](http://anson.ucdavis.edu/~drake/) in 2015.
 
-I am broadly interested in the mathematical foundation of data science, including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. I am also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
+I am broadly interested in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. I am also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
+
+

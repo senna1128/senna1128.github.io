@@ -50,15 +50,16 @@ design:
   flip_alt_rows: false
 ---
 
-I was trained as a [statistician](https://en.wikipedia.org/wiki/Statistician) in my Ph.D. study, but my research interests span high-dimensional statistics, nonlinear and nonconvex optimization, control theory, and scientific machine learning. My ultimate research goal is to develop a new generation of **<span style='color: red;'>stochastic numerical methods</span>** that exhibit promising **<span style='color: red;'>statistical and computational efficiency</span>** for solving knotty problems in statistics and engineering.
+I was trained as a [statistician](https://en.wikipedia.org/wiki/Statistician) during my Ph.D. studies, but as a postdoc, my research interests have expanded to encompass other areas such as operations research, scientific computing, and industrial engineering. My research is rooted in the **<span style='color: red;'>mathematical foundations of data science</span>**, with a focus on high-dimensional statistics, nonlinear and nonconvex optimization, control theory, and scientific machine learning. My ultimate research goal is to develop a new generation of **<span style='color: red;'>stochastic numerical methods</span>** that can exhibit promising **<span style='color: red;'>statistical and computational efficiency</span>** in solving complex problems in statistics and engineering.
 
-I develop practical methods by leveraging classical optimization techniques (e.g., exact penalty, augmented Lagrangian, trust region, active set, and interior-point methods) and reforming these techniques to address pressing modern challenges, such as **<span style='color: red;'>scalability</span>**, **<span style='color: red;'>reliability</span>**, and **<span style='color: red;'>adaptivity</span>**.
+To achieve this, I develop practical methods by leveraging classical optimization techniques, such as exact penalty, augmented Lagrangian, trust region, active set, and interior-point methods. I revisit, reform, and redesign these techniques to address pressing modern challenges, including **<span style='color: red;'>scalability</span>**, **<span style='color: red;'>reliability</span>**, and **<span style='color: red;'>adaptivity</span>**.
 
-Toward the ultimate goal, my current research mainly includes the following topics:
+
+Currently, my research focuses on the following topics:
 
 * <font size="3"> Constrained stochastic optimization </font> 
 * <font size="3"> Statistical inference of stochastic second-order methods </font> 
-* <font size="3"> ML problems with physics-informed constraints </font>
+* <font size="3"> Machine learning with physics-informed constraints </font>
 * <font size="3"> Stochastic real-time optimal control \& model predictive control </font> 
 * <font size="3"> Semiparametric graphical models </font> 
 

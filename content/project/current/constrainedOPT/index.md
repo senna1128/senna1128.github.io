@@ -25,4 +25,3 @@ The constraints that encode prior model knowledge are ubiquitous in practice. Fo
 Check out my highlighted works [Na et al., 2022](/publication/pubs/na-2022-adaptive), [2023](/publication/pubs/na-2023-inequality), [Fang et al., 2022](/publication/preprints/fang-2022-fully)!
 
 
-

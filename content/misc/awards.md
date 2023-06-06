@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Awards"
 subtitle = ""
@@ -56,6 +56,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- <font size="3"> **SDSS 2023 Student & Early Career Award** <span style="float:right;">ASA, 2023</span> <br> </font>
 
 - <font size="3"> **Harper Dissertation Fellowship** <span style="float:right;">UChicago, 2020</span> <br> </font>
 *(one of the highest honors at UChicago in recognition of Ph.D. candidates' record of achievement and

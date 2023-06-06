@@ -57,15 +57,15 @@ subtitle = ""
  css_class = ""
 +++
 
-I have served as a referee of several journals in mathematics and statistics:
+I have served as a referee for several prestigious journals in the fields of mathematics and statistics, including:
 
-- Mathematical Programming
 - SIAM Journal on Optimization
 - IMA Journal of Numerical Analysis
 - Journal of Machine Learning Research 
 - Electronic Journal of Statistics
 - Statistics & Probability Letters
 
-I also serve as a reviewer of several machine learning conferences: NeurIPS, ICML, ICLR, IJCAI, AIStats etc.
+I also actively serve as a reviewer for various machine learning conferences, such as NeurIPS, ICML, ICLR, IJCAI, AIStats, and more.
+
 
 

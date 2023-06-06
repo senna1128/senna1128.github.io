@@ -50,20 +50,27 @@ design:
   flip_alt_rows: false
 ---
 
-There are **<span style='color: red;'>three common threads</span>** of my research topics: 
+There are **<span style='color: red;'>three common threads</span>** in my research topics: 
 
-* I recover model parameters by optimizing certain loss functions that can only be evaluated in a **<span style='color: red;'>noisy</span>** way (e.g., by sampling). 
-* The model parameters have to satisfy constraints in a **<span style='color: red;'>hard</span>** way, which do not merely provide suggestions and lead to an inductive bias.
-* The uncertainty quantification and inference of the methods are crucial to draw any **<span style='color: red;'>statistically significant</span>** conclusions.  
+* I estimate the parameters of statistical models by optimizing certain loss functions that can only be evaluated in a **<span style='color: red;'>noisy</span>** manner, typically through sampling.
 
-More specifically, my constrained problems have the following components: 
-- The model parameters $\boldsymbol{x}$ can be in low, high, or infinite dimensions (e.g., a policy mapping in control problems). 
+* The model parameters must strictly adhere to **<span style='color: red;'>hard</span>** constraints, which do not merely provide suggestions and lead to an inductive bias.
 
-- The loss functions can be in purely stochastic form $E_{\xi\sim\mathcal{P}}[f(\boldsymbol{x};\xi)]$, empirical finite-sum form $\frac{1}{n}\sum_{i=1}^{n}f_i(\boldsymbol{x})$, or integral form $\int_{t\in\mathcal{T}}(\boldsymbol{x}(t) - \boldsymbol{x}_{ref}(t))^2 dt$.
+* The uncertainty quantification and online statistical inference based on the methods play a crucial role in determining **<span style='color: red;'>estimation efficiency</span>** and drawing **<span style='color: red;'>statistically significant</span>** conclusions.  
 
-- The constraints on $\boldsymbol{x}$ can be in equality, inequality, deterministic, or expected forms. In addition, $\boldsymbol{x}$ can be restricted to Riemannian manifolds or satisfy some PDEs.
 
-Due to constraints' nonlinearity, the projected first-order methods are often inapplicable. Therefore, I primarily focus on second-order primal-dual methods and allow Hessians to be approximated imprecisely. 
+
+More specifically, my constrained problems have the following components:
+
+- The model parameters $\boldsymbol{x}$ (or $\boldsymbol{\beta}$ as commonly used in statistics) can be in low, high, or infinite dimensions (e.g., a policy mapping in optimal control problems). 
+
+- The loss functions can be in purely stochastic form $E[f(\boldsymbol{x};\xi)]$, empirical finite-sum form $\sum_{i=1}^{n}f_i(\boldsymbol{x})/n$, or integral form $\int (\boldsymbol{x}(t) - \boldsymbol{x}_{ref}(t))^2 dt$.
+
+- The constraints on the model parameters can be in equality, inequality, deterministic, or expected forms. Additionally, the model parameters can be restricted to some Riemannian manifolds or satisfy some PDEs.
+
+
+Due to the nonlinearity of the constraints, projected first-order methods are inapplicable. Thus, my primary focus is on second-order primal-dual methods, where Hessians are allowed to be approximated imprecisely.
+
 
 
 

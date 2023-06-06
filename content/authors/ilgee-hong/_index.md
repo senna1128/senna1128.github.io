@@ -60,5 +60,8 @@ user_groups:
 - Master Students
 ---
 Ilgee Hong is a master student in the Statistics department at UChicago, working with [Mladen Kolar](/authors/mladen-kolar) and [Sen Na](/authors/sen-na) on randomized numerical methods, with an emphasis on machine learning applications.
+\
+\
+[>> Personal website](https://ilgeehong.github.io/)
 
 

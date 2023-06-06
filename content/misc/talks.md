@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Talks"
 subtitle = ""
@@ -59,6 +59,8 @@ subtitle = ""
 
 <font size="3">
 <ol reversed>
+<li> INFORMS Annual Meeting <span style="float:right;">Phoenix, Oct. 2023</span>
+</li>
 <li> SIAM Conference on Optimization <span style="float:right;">Seattle, May 2023</span>
 </li>
 <li>Symposium on Data Science & Statistics (referred) <span style="float:right;">St. Louis, May 2023</span></li>

@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Research Experience"
 subtitle = ""
@@ -57,16 +57,14 @@ subtitle = ""
  css_class = ""
 +++
 
-## Research Assistant <span style="float:right;">Argonne</span>
+## Research Assistant <span style="float:right;"><font size="3">Argonne, MCS Division</font></span>
 
-- <font size="3">Givens Associate <span style="float:right;">Summer 2018, 2019</span> <br>
-Mathematics and Computer Science Division <br> </font>
-*Project*: sensitivity analysis of long-horizon nonlinear dynamic programming and its application on electrical transmission planning; convergence analysis of online, fast model predictive control with implementation in Julia/JuMP
+- <font size="3">Givens Associate <span style="float:right;">Summer 2018, 2019</span> <br></font>
+**Project**: sensitivity analysis of long-horizon nonlinear dynamic programming and its application on electrical transmission planning; convergence analysis of online, fast model predictive control with implementation in Julia/JuMP
 
 
-- <font size="3">WJ Cody Associate<span style="float:right;">Summer 2020</span> <br>
-Mathematics and Computer Science Division <br> </font>
-*Project*: convergence analysis of temporal decomposition procedure on nonlinear dynamic programming and its implementation
+- <font size="3">WJ Cody Associate<span style="float:right;">Summer 2020</span> <br></font>
+**Project**: convergence analysis of temporal decomposition procedure on nonlinear dynamic programming and its implementation
 
 
 
