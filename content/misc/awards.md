@@ -57,7 +57,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- <font size="3"> **SDSS 2023 Student & Early Career Award** <span style="float:right;">ASA, 2023</span> <br> </font>
+- <font size="3"> **SDSS Student & Early Career Award** <span style="float:right;">ASA, 2023</span> <br> </font>
 
 - <font size="3"> **Harper Dissertation Fellowship** <span style="float:right;">UChicago, 2020</span> <br> </font>
 *(one of the highest honors at UChicago in recognition of Ph.D. candidates' record of achievement and
