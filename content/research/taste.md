@@ -50,13 +50,13 @@ design:
   flip_alt_rows: false
 ---
 
-There are **<span style='color: red;'>three common threads</span>** in my research topics: 
+There are **<span style='color: black;'>three common threads</span>** in my research topics: 
 
-* I estimate the parameters of statistical models by optimizing certain loss functions that can only be evaluated in a **<span style='color: red;'>noisy</span>** manner, typically through sampling.
+* I estimate the parameters of statistical models by optimizing certain loss functions that can only be evaluated in a **<span style='color: black;'>noisy</span>** manner, typically through sampling.
 
-* The model parameters must strictly adhere to **<span style='color: red;'>hard</span>** constraints, which do not merely provide suggestions and lead to an inductive bias.
+* The model parameters must strictly adhere to **<span style='color: black;'>hard constraints</span>**, which do not merely provide suggestions and lead to an inductive bias.
 
-* The uncertainty quantification and online statistical inference based on the methods play a crucial role in determining **<span style='color: red;'>estimation efficiency</span>** and drawing **<span style='color: red;'>statistically significant</span>** conclusions.  
+* The uncertainty quantification and online statistical inference of the developed methods are performed to determine **<span style='color: black;'>estimation efficiency</span>** and draw **<span style='color: black;'>statistically significant</span>** conclusions.  
 
 
 
@@ -66,10 +66,10 @@ More specifically, my constrained problems have the following components:
 
 - The loss functions can be in purely stochastic form $E[f(\boldsymbol{x};\xi)]$, empirical finite-sum form $\sum_{i=1}^{n}f_i(\boldsymbol{x})/n$, or integral form $\int (\boldsymbol{x}(t) - \boldsymbol{x}_{ref}(t))^2 dt$.
 
-- The constraints on the model parameters can be in equality, inequality, deterministic, or expected forms. Additionally, the model parameters can be restricted to some Riemannian manifolds or satisfy some PDEs.
+- The constraints on the model parameters can be in equality, inequality, deterministic, or expected forms. Additionally, the model parameters can be restricted to some Riemannian manifolds or satisfying some PDEs.
 
 
-Due to the nonlinearity of the constraints, projected first-order methods are inapplicable. Thus, my primary focus is on second-order primal-dual methods, where Hessians are allowed to be approximated imprecisely.
+<!--- Due to the nonlinearity of the constraints, projected first-order methods are inapplicable. Thus, my primary focus is on second-order primal-dual methods, where Hessians are allowed to be approximated imprecisely. ---> 
 
 
 
