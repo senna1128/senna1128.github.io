@@ -20,10 +20,10 @@ marketing:
     description: ''
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-X77MT4WG8J'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: '<meta name="google-site-verification" content="5Fqx1MjpA3BRVlcnVlFq3_G67mVE3J0uA8cWAN994a8" />'
     baidu: ''
 
 
@@ -177,8 +177,8 @@ features:
     api_key: ''
     zoom: 15
   marketing:
-    google_analytics: 'UA-163542179-1'
-    google_tag_manager: ''
+    google_analytics: 'G-X77MT4WG8J'
+    google_tag_manager: '<meta name="google-site-verification" content="5Fqx1MjpA3BRVlcnVlFq3_G67mVE3J0uA8cWAN994a8" />'
     google_site_verification: ''
     baidu_site_verification: ''
     baidu_tongji: ''
