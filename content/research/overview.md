@@ -50,18 +50,18 @@ design:
   flip_alt_rows: false
 ---
 
-I was trained as a statistician during my Ph.D. studies, but my postdoctoral research has expanded to encompass other areas such as operations research, scientific computing, and industrial engineering. My research is rooted in the **<span style='color: black;'>mathematical foundations of data science</span>**, with a focus on high-dimensional statistics, nonlinear and nonconvex optimization, control theory, and scientific machine learning. My ultimate research goal is to develop next-generation **<span style='color: black;'>stochastic numerical methods</span>** with promising **<span style='color: black;'>statistical and computational efficiency</span>** in solving complex problems in statistics and engineering.
+I was trained as a statistician during my Ph.D. studies, but my postdoctoral research has expanded to encompass other areas such as operations research, scientific computing, and industrial engineering. My research is rooted in the **<span style="color: rgb(51,133,255);">mathematical foundations of data science</span>**, with a focus on high-dimensional statistics, nonlinear and nonconvex optimization, control theory, and scientific machine learning. My ultimate research goal is to develop next-generation **<span style="color: rgb(51,133,255);">stochastic numerical methods</span>** with promising **<span style="color: rgb(51,133,255);">statistical and computational efficiency</span>** in solving complex problems in statistics and engineering.
 
-To achieve this, I develop practical methods by leveraging classical optimization techniques, such as exact penalty, augmented Lagrangian, trust region, active set, and interior-point methods. I revisit, reform, and redesign these techniques to address pressing modern challenges, including **<span style='color: black;'>scalability</span>**, **<span style='color: black;'>reliability</span>**, and **<span style='color: black;'>adaptivity</span>**.
+To achieve this, I develop practical methods by leveraging classical optimization techniques, such as exact penalty, augmented Lagrangian, trust region, active set, and interior-point methods. I revisit, reform, and redesign these techniques to address pressing modern challenges, including **<span style="color: rgb(51,133,255);">scalability</span>**, **<span style="color: rgb(51,133,255);">reliability</span>**, and **<span style="color: rgb(51,133,255);">adaptivity</span>**.
 
 
 Currently, my research focuses on the following topics:
 
-* Constrained stochastic optimization </font> 
-* Statistical inference of stochastic second-order methods </font> 
-* Machine learning with physics-informed constraints </font>
-* Stochastic real-time optimal control \& model predictive control </font> 
-* Semiparametric graphical models </font> 
+* Constrained stochastic optimization 
+* Statistical inference of stochastic second-order methods 
+* Machine learning with physics-informed constraints 
+* Stochastic real-time optimal control \& model predictive control 
+* Semiparametric graphical models 
 
 
 

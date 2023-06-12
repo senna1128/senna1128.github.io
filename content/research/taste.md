@@ -50,13 +50,13 @@ design:
   flip_alt_rows: false
 ---
 
-There are **<span style='color: black;'>three common threads</span>** in my research topics: 
+There are **<span style="color: rgb(51,133,255);">three common threads</span>** in my research topics: 
 
-* I estimate the parameters of statistical models by optimizing certain loss functions that can only be evaluated in a **<span style='color: black;'>noisy</span>** manner, typically through sampling.
+* I estimate the parameters of statistical models by optimizing certain loss functions that can only be evaluated in a **<span style="color: rgb(51,133,255);">noisy</span>** manner, typically through sampling/sketching.
 
-* The model parameters must strictly adhere to **<span style='color: black;'>hard constraints</span>**, which do not merely provide suggestions and lead to an inductive bias.
+* The model parameters must strictly adhere to **<span style="color: rgb(51,133,255);">hard constraints</span>**, which do not merely provide suggestions and lead to an inductive bias.
 
-* The uncertainty quantification and online statistical inference of the developed methods are performed to determine **<span style='color: black;'>estimation efficiency</span>** and draw **<span style='color: black;'>statistically significant</span>** conclusions.  
+* The uncertainty quantification and online statistical inference of the developed methods are performed to determine **<span style="color: rgb(51,133,255);">estimation efficiency</span>** and draw **<span style="color: rgb(51,133,255);">statistically significant</span>** conclusions.  
 
 
 
