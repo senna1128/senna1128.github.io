@@ -72,4 +72,4 @@ I received my Ph.D. degree in statistics from the University of Chicago in 2021,
 
 I am broadly interested in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. I am also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
 
-
+**<span style="color: rgb(255,0,0);">(I'm on the 2023-2024 job market. Happy to chat if you have any information.)</span>**
