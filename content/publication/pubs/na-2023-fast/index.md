@@ -13,7 +13,7 @@ tags: [math.OC, math.DS, recent]
 categories: []
 date: '2023-04-07'
 lastmod: 2023-02-28T14:15:07-08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
