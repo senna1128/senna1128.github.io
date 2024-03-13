@@ -57,7 +57,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I am currently leading a research group across UChicago and UC Berkeley with [Mladen Kolar](https://mkolar.coffeejunkies.org/), [Mihai Anitescu](https://web.cels.anl.gov/~anitescu/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). In this role, I have the privilege of mentoring several highly motivated junior students on diverse projects in statistics and optimization.
+I am currently coordinating a group of graduate students across UChicago and UC Berkeley with [Mladen Kolar](https://mkolar.coffeejunkies.org/), [Mihai Anitescu](https://web.cels.anl.gov/~anitescu/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). In this role, I have the privilege of mentoring several highly motivated junior students from diverse backgrounds on various topics in statistics and optimization.
 
 
 

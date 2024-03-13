@@ -20,7 +20,7 @@ marketing:
     description: ''
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-X77MT4WG8J'
     baidu_tongji: ''
   verification:
     google: ''
@@ -177,7 +177,7 @@ features:
     api_key: ''
     zoom: 15
   marketing:
-    google_analytics: 'UA-163542179-1'
+    google_analytics: 'G-X77MT4WG8J'
     google_tag_manager: ''
     google_site_verification: ''
     baidu_site_verification: ''

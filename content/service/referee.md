@@ -59,7 +59,10 @@ subtitle = ""
 
 I have served as a referee for several prestigious journals in the fields of mathematics and statistics, including:
 
+- Journal of Computational and Graphical Statistics
+- Mathematical Programming
 - SIAM Journal on Optimization
+- Mathematics of Operations Research
 - IMA Journal of Numerical Analysis
 - Journal of Machine Learning Research 
 - Electronic Journal of Statistics
