@@ -1,6 +1,6 @@
 ---
 title: Deterministically Constrained Stochastic Optimization
-summary: "The problems appear widely in *constrained $M$-estimation*, *semiparametric models*, and *constrained neural networks*."
+summary: "The problems appear widely in *constrained M-estimation*, *semiparametric models*, and *constrained neural networks*."
 authors: []
 tags: []
 categories: []

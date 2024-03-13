@@ -61,8 +61,11 @@ subtitle = ""
 - <font size="3">STAT 234: Statistical Models and Method </font> <br>
 Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/), Linda Brant Collins
 
-- <font size="3"> STAT 244: Statistical Theory and Method </font><br>
+- <font size="3"> STAT 244: Statistical Theory and Method I </font><br>
 Instructor: [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/)
+
+- <font size="3"> STAT 245: Statistical Theory and Method II </font><br>
+Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/)
 
 - <font size="3"> STAT 315: Stochastic Simulation</font><br>
 Instructor: [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/)

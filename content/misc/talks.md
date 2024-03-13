@@ -61,6 +61,8 @@ subtitle = ""
 <ol reversed>
 <li> INFORMS Annual Meeting <span style="float:right;">Phoenix, Oct. 2023</span>
 </li>
+<li> Cornell ORIE Young Researchers Workshop <span style="float:right;">Ithaca, Oct. 2023</span>
+</li>
 <li> SIAM Conference on Optimization <span style="float:right;">Seattle, May 2023</span>
 </li>
 <li>Symposium on Data Science & Statistics (referred) <span style="float:right;">St. Louis, May 2023</span></li>
