@@ -19,18 +19,18 @@ content:
   form: 
 
   # Contact details (edit or remove options as required)
-  email: senna@berkeley.edu
+  email: senna@gatech.edu
   phone: 
   address:
-    street: 367 Evans Hall Room 473, University of California, Berkeley
-    city: 
-    region: CA
-    postcode: '94720'
+    street: 765 Ferst Dr NW Room 338
+    city: Atlanta
+    region: GA
+    postcode: '30318'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.5225 N'
-    longitude: '-122.1528 W'
+    latitude: '33.7762 N'
+    longitude: '-84.4023 W'
   directions: 
   office_hours:
   appointment_url: 

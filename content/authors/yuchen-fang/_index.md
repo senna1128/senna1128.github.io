@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuchen Fang is a master student in the Computational and Applied Math program at UChicago, working with Mladen Kolar and Sen Na on stochastic nonlinear optimization. He is also interested in numerical linear algebra, high-dimensional statistics, statistical learning, as well as mathematical finance.
+bio: Yuchen Fang is a PhD student in the mathematics department at UC Berkeley. He was a master student in the Computational and Applied Math program at UChicago, where he worked with Mladen Kolar and Sen Na on stochastic nonlinear optimization. His research interests include numerical linear algebra, high-dimensional statistics, statistical learning, and mathematical finance.
+
 
 
 # List each interest with a dash
@@ -65,7 +66,7 @@ email: "frankycfang@outlook.com"
 user_groups:
 - Master Students
 ---
-Yuchen Fang is a master student in the Computational and Applied Math program at UChicago, working with [Mladen Kolar](/authors/mladen-kolar) and [Sen Na](/authors/sen-na) on stochastic nonlinear optimization. He is also interested in numerical linear algebra, high-dimensional statistics, statistical learning, as well as mathematical finance.
+Yuchen Fang is a PhD student in the mathematics department at UC Berkeley. He was a master student in the Computational and Applied Math program at UChicago, where he worked with [Mladen Kolar](/authors/mladen-kolar) and [Sen Na](/authors/sen-na) on stochastic nonlinear optimization. His research interests include numerical linear algebra, high-dimensional statistics, statistical learning, and mathematical finance.
 \
 \
 [>> Personal website](https://ychenfang.github.io/)

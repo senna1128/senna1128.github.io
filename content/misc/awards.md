@@ -56,6 +56,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- <font size="3"> **MAPR Meritorious Service Award** <span style="float:right;">Math Opt Society, 2023</span> <br> </font>
+
 - <font size="3"> **ORIE Young Researcher** <span style="float:right;">Cornell University, 2023</span> <br> </font>
 
 - <font size="3"> **SDSS Student & Early Career Award** <span style="float:right;">ASA, 2023</span> <br> </font>

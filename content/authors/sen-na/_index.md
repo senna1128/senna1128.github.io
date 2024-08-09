@@ -6,14 +6,14 @@ authors:
 
 superuser: true
 
-role: Postdoc in Statistics and ICSI
+role: Assistant Professor in ISyE
 
-bio: Sen Na is a postdoctoral scholar in the Statistics department and ICSI at UC Berkeley. His research interests broadly lie in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in applying machine learning methods in biology, neuroscience, and engineering.
+bio: Sen Na is an Assistant Professor in the School of Industrial and Systems Engineering at Georgia Tech. Prior to joining ISyE, he was a postdoctoral researcher in the statistics department and ICSI at UC Berkeley. His research interests broadly lie in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in applying machine learning methods to biology, neuroscience, and engineering.
 
 
 organizations:
-  - name: University of California, Berkeley
-    url: https://www.berkeley.edu/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
     
 interests:
   - High-dim estimation \& inference
@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoc in Statistics and CS
+    institution: University of California, Berkeley
+    year: 2024
   - course: Ph.D. in Statistics
     institution: University of Chicago
     year: 2021
@@ -53,7 +56,7 @@ social:
   icon_pack: ai
   link: uploads/CV_SenNa.pdf
   
-email: "senna@berkeley.edu"
+email: "senna@gatech.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -62,14 +65,14 @@ user_groups:
 last_name: Na
 highlight_name: true
 first_name: Sen
-email: "senna@berkeley.edu"
+email: "senna@gatech.edu"
 
 #use {style="text-align: justify;"} for text align below
 ---
-I am currently a postdoctoral researcher in the [Department of Statistics](https://statistics.berkeley.edu/) and [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) at UC Berkeley, working with [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/).
+I am currently an Assistant Professor in the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE)](https://www.isye.gatech.edu/) at Georgia Tech. Prior to joining ISyE, I was a postdoctoral researcher in the [Department of Statistics](https://statistics.berkeley.edu/) and [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) at UC Berkeley, working with [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/).
 
 I received my Ph.D. degree in statistics from the University of Chicago in 2021, under the supervision of [Mihai Anitescu](https://www.mcs.anl.gov/~anitescu/) and [Mladen Kolar](https://mkolar.coffeejunkies.org/). Before attending UChicago, I received my B.S. degree in mathematics from Nanjing University in 2016. I also visited the Statistics department at UC Davis as an exchange student and worked with [Jane-Ling Wang](http://www.stat.ucdavis.edu/~wang/), [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/), and [Christiana Drake](http://anson.ucdavis.edu/~drake/) in 2015.
 
 I am broadly interested in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. I am also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
 
-**<span style="color: rgb(255,0,0);">(I'm on the 2023-2024 job market. Happy to chat if you have any information.)</span>**
+<!--**<span style="color: rgb(255,0,0);">(I'm on the 2023-2024 job market. Happy to chat if you have any information.)</span>**-->

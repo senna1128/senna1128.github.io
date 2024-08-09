@@ -57,14 +57,15 @@ subtitle = ""
  css_class = ""
 +++
 
-I have served as a referee for several prestigious journals in the fields of mathematics and statistics, including:
+I have served as a referee for several prestigious journals in the fields of mathematics, statistics, and optimization, including:
 
-- Journal of Computational and Graphical Statistics
-- Mathematical Programming
-- SIAM Journal on Optimization
-- Mathematics of Operations Research
-- IMA Journal of Numerical Analysis
 - Journal of Machine Learning Research 
+- IMA Journal of Numerical Analysis
+- Mathematics of Operations Research
+- Mathematical Programming
+- SIAM Journal on Scientific Computing
+- SIAM Journal on Optimization
+- Journal of Computational and Graphical Statistics
 - Electronic Journal of Statistics
 - Statistics & Probability Letters
 

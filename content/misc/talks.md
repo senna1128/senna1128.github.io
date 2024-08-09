@@ -59,16 +59,19 @@ subtitle = ""
 
 <font size="3">
 <ol reversed>
+<li> UC Berkeley (biostatistics seminar) <span style="float:right;">Berkeley, Apr. 2024</span>
+</li>
+<li> Stanford University (optimization seminar) <span style="float:right;">Stanford, Mar. 2024</span>
+</li>
 <li> INFORMS Annual Meeting <span style="float:right;">Phoenix, Oct. 2023</span>
 </li>
-<li> Cornell ORIE Young Researchers Workshop <span style="float:right;">Ithaca, Oct. 2023</span>
+<li> Cornell ORIE Young Researchers Workshop (referred) <span style="float:right;">Ithaca, Oct. 2023</span>
 </li>
 <li> SIAM Conference on Optimization <span style="float:right;">Seattle, May 2023</span>
-</li>
-<li>Symposium on Data Science & Statistics (referred) <span style="float:right;">St. Louis, May 2023</span></li>
-<li>Advances in Neural Information Processing Systems <span style="float:right;">Virtual, Dec. 2021</span>
-<li>International Conference on Machine Learning <span style="float:right;">Virtual, July 2020</span>
-<li>Summer Student Mini-Symposium, Argonne <span style="float:right;">Lemont, Sept. 2018-2020</span>
+<li> Symposium on Data Science & Statistics (referred) <span style="float:right;">St. Louis, May 2023</span>
+<li> Advances in Neural Information Processing Systems <span style="float:right;">Virtual, Dec. 2021</span>
+<li> International Conference on Machine Learning <span style="float:right;">Virtual, July 2020</span>
+<li> Summer Student Mini-Symposium, Argonne <span style="float:right;">Lemont, Sept. 2018-2020</span>
 </ol>
 </font> 
 
