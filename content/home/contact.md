@@ -19,7 +19,7 @@ content:
   form: 
 
   # Contact details (edit or remove options as required)
-  email: senna@gatech.edu
+  email: senna@gatech.edu1
   phone: 
   address:
     street: 765 Ferst Dr NW Room 338
