@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant Professor in Industrial Engineering & Management Sciences
+role: Associate Professor in Industrial Engineering & Management Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhaoran Wang is an Assistant Professor in the Departments of Industrial Engineering & Management Sciences and Computer Science at Northwestern University. His research is to develop a new generation of data-driven decision-making methods, theory, and systems, which tailor artificial intelligence towards addressing pressing societal challenges. 
+bio: Zhaoran Wang is an Associate Professor in the Departments of Industrial Engineering & Management Sciences and Computer Science at Northwestern University. His research is to develop a new generation of data-driven decision-making methods, theory, and systems, which tailor artificial intelligence towards addressing pressing societal challenges. 
 
 
 # List each interest with a dash
@@ -63,7 +63,7 @@ email: "mailto:zhaoranwang@gmail.com"
 user_groups:
 - 
 ---
-Zhaoran Wang is an Assistant Professor in the Departments of Industrial Engineering & Management Sciences and Computer Science at Northwestern University. His research is to develop a new generation of data-driven decision-making methods, theory, and systems, which tailor artificial intelligence towards addressing pressing societal challenges.
+Zhaoran Wang is an Associate Professor in the Departments of Industrial Engineering & Management Sciences and Computer Science at Northwestern University. His research is to develop a new generation of data-driven decision-making methods, theory, and systems, which tailor artificial intelligence towards addressing pressing societal challenges.
 \
 \
 [>> Personal website](https://zhaoranwang.github.io/)
