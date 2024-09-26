@@ -45,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Y95kUP4AAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=nwLgyLMAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/senna1128
