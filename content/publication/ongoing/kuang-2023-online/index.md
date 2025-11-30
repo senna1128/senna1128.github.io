@@ -4,9 +4,8 @@ date: '2023-10'
 publishDate: '2023-10-30'
 authors:
 - Wei Kuang
-- Sen Na
-- Michael W. Mahoney
 - Mihai Anitescu
+- Sen Na
 publication_types:
 - '4'
 abstract: "
