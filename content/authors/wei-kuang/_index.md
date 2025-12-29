@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD in Statistics (2019-)
+role: PhD in Statistics (2019-2025)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wei Kuang is currently a PhD student in the Statistics department at UChicago, working with Mihai Anitescu (supervisor) and Sen Na on randomized second-order methods, with an emphasis on the uncertainty quantification and statistical inference aspects.
+bio: Wei Kuang was a PhD student in the Statistics department at UChicago, working with Mihai Anitescu (supervisor) and Sen Na on randomized second-order methods, with an emphasis on the uncertainty quantification and statistical inference aspects.
 
 
 # List each interest with a dash
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: University of Chicago
-    year: 2024 (expected)
+    year: 2025
   - course: BS in Mathematics
     institution: University of Science and Technology of China
     year: 2019
@@ -57,7 +57,7 @@ email: "weikuang@uchicago.edu"
 user_groups:
 - PhD Students
 ---
-Wei Kuang is currently a PhD student in the Statistics department at UChicago, working with [Mihai Anitescu](/authors/mihai-anitescu) (supervisor) and [Sen Na](/author/sen-na) on randomized second-order methods, with an emphasis on the uncertainty quantification and statistical inference aspects. 
+Wei Kuang was a PhD student in the Statistics department at UChicago, working with [Mihai Anitescu](/authors/mihai-anitescu) (supervisor) and [Sen Na](/author/sen-na) on randomized second-order methods, with an emphasis on the uncertainty quantification and statistical inference aspects. 
 
 
 

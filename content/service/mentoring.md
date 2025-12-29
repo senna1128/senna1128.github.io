@@ -57,9 +57,25 @@ subtitle = ""
  css_class = ""
 +++
 
-I am currently coordinating a group of graduate students across UChicago and UC Berkeley with [Mladen Kolar](https://mkolar.coffeejunkies.org/), [Mihai Anitescu](https://web.cels.anl.gov/~anitescu/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). In this role, I have the privilege of mentoring several highly motivated junior students from diverse backgrounds on various topics in statistics and optimization.
+<font size="3"> I am super fortunate to closely work with a number of **highly motivated and talented students** from diverse backgrounds on various topics in statistics, optimization, and machine learning.</font>
+
+### ● PhD Students
+
+#### Georgia Tech
+- <font size="3"> [Xinchen Du](https://morning-du.github.io/) (ISyE) </font>
+- <font size="3"> Haoxuan Wang (ISyE) </font>
+- <font size="3"> Jianliang Ye (Math) </font>
+
+#### Other Institutions  <span style="font-weight: normal; font size=3">(work together with their home advisors)</span>
+- <font size="3"> Yufei Fan (USC, Marshall) </font>
+- <font size="3"> Xiaoran Cheng (Penn State, Stats) </font>
+- <font size="3"> [Yuchen Fang](https://ychenfang.github.io/) (UC Berkeley, Math) </font>
+
+### ● Undergraduate Students
+- <font size="3"> Jingrong Guan (Shanghai Tech, Math) </font>
 
 
+### ● Past Students
 {{< table path="students.csv" header="true" caption="">}}
 
 

@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc in Mathematics and Computer Science Division
+role: Assistant Professor in Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Argonne National Laboratory
+- name: Massachusetts Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sungho Shin is a postdoc in the Mathematics and Computer Science Division at Argonne National Laboratory. His research interests include model predictive control, optimization algorithms, and their applications to large-scale energy infrastructures (such as natural gas and power networks).
+bio: Sungho Shin is an Assistant Professor of the Chemical Engineering Department at MIT. His research interests include model predictive control, optimization algorithms, and their applications to large-scale energy infrastructures (such as natural gas and power networks).
 
 
 
@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sshin@anl.gov'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sushin@mit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SunghoShinSS
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_KaTyEwAAAAJ
+  link: https://scholar.google.com/citations?user=_KaTyEwAAAAJ&inst=7707536466893209563
 - icon: github
   icon_pack: fab
   link: https://github.com/sshin23
@@ -59,20 +59,31 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://sunghoshin.com/shin-full.pdf
+  link: https://shin.mit.edu/assets/shin.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sshin@anl.gov"
+email: "sushin@mit.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoc
+- Principal Investigator
 ---
 
-Sungho Shin is a postdoctoral researcher at the Mathematics and Computer Science Division at Argonne National Laboratory. He received his Ph.D. from the University of Wisconsin-Madison in 2021. He was a Summer intern at Los Alamos National Laboratory and Argonne National Laboratory. He was an undergraduate researcher at Jong Min Lee's group at Seoul National University. 
+Sungho Shin is a Texaco-Mangelsdorf Career Development Chair Assistant Professor of the Chemical 
+Engineering Department at Massachusetts Institute of Technology. Prior to joining MIT, he was a 
+postdoctoral researcher at the Mathematics and Computer Science Division at Argonne National 
+Laboratory (supervisor: Mihai Anitescu). He received his Ph.D. from the University of Wisconsin-Madison 
+(advisor: Victor M. Zavala). He was a Summer intern at Los Alamos National Laboratory and Argonne National 
+Laboratory. He was an undergraduate researcher at Jong Min Lee's group at Seoul National University. 
 
-His research interests include model predictive control, optimization algorithms, and their applications to large-scale energy infrastructures (such as natural gas and power networks). He is the main developer of nonlinear optimization solver MadNLP.jl and automatic differentiation/algebraic modeling tool MadDiff.jl. He was the winner of the 2020 AIChE Annual Meeting CAST Directors’ Student Presentation Award, 2021 IFAC ADCHEM Young Author Award, and 2021 IFAC NMPC Young Author Award. He was a recipient of the Korea Presidential Science Fellowship, Kwanjeong Fellowship, and Grainger Wisconsin Distinguished Graduate Fellowship.
+His research interests include model predictive control, optimization algorithms, and their applications 
+to large-scale energy infrastructures (such as natural gas and power networks). He is the main developer 
+of the nonlinear optimization solver MadNLP.jl and the automatic differentiation/algebraic modeling 
+tool ExaModels.jl. He was the winner of the W. David Smith, Jr. Graduate Publication Award, AIChE 
+Annual Meeting CAST Directors’ Student Presentation Award, IFAC ADCHEM Young Author Award, 
+IFAC NMPC Young Author Award. He was a recipient of the Korea Presidential Science Fellowship, 
+Kwanjeong Fellowship, and Grainger Wisconsin Distinguished Graduate Fellowship.
 \
 \
-[>> Personal website](https://sunghoshin.com/)
+[>> Personal website](https://shin.mit.edu/)

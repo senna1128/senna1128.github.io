@@ -8,8 +8,7 @@ superuser: true
 
 role: Assistant Professor in ISyE
 
-bio: Sen Na is an Assistant Professor in the School of Industrial and Systems Engineering at Georgia Tech. Prior to joining ISyE, he was a postdoctoral researcher in the statistics department and ICSI at UC Berkeley. His research interests broadly lie in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in applying machine learning methods to biology, neuroscience, and engineering.
-
+bio: Sen Na is an Assistant Professor in the School of Industrial and Systems Engineering at Georgia Tech. Prior to joining ISyE, he was a postdoctoral researcher in the statistics department and ICSI at UC Berkeley. His research interests broadly lie in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. He is also interested in applying machine learning methods to problems in biology, neuroscience, and engineering.
 
 organizations:
   - name: Georgia Institute of Technology
@@ -21,7 +20,7 @@ interests:
   - Semiparametric models
   - Stochastic optimization 
   - Uncertainty quantification
-  - Optimal control
+  - Control, Diffusion, PDE constraints
   - Scientific machine learning
 
 education:
@@ -45,7 +44,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Y95kUP4AAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=nwLgyLMAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/senna1128
@@ -75,4 +74,7 @@ I received my Ph.D. degree in statistics from the University of Chicago in 2021,
 
 I am broadly interested in the mathematical foundations of data science, with topics including high-dimensional statistics, graphical models, semiparametric models, optimal control, and large-scale and stochastic nonlinear optimization. I am also interested in the applications of machine learning methods in biology, neuroscience, and engineering.
 
-<!--**<span style="color: rgb(255,0,0);">(I'm on the 2023-2024 job market. Happy to chat if you have any information.)</span>**-->
+**<span style="color: rgb(255,0,0);">
+(1) I'm actively seeking graduate students who are interested in interdisciplinary research in statistics, optimization, control, data science, and generative AI.<br/> (1a) GT students: send me an email with CV and transcript.<br/> (1b) Prospective students: apply to PhD programs and mention my name in application.<br/> 
+(2) I'm happy to host (remote) undergraduate/graduate visitors with shared interests, which is also one way I use to identify potential students for my group. However, please reach out only if you are willing to finish the work even after the application season!
+</span>**

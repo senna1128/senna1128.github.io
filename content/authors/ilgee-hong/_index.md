@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ilgee Hong is a master student in the Statistics department at UChicago, working with Mladen Kolar and Sen Na on randomized numerical methods, with an emphasis on machine learning applications.
+bio: Ilgee Hong was a master student in the Statistics department at UChicago, working with Mladen Kolar and Sen Na on randomized numerical methods, with an emphasis on machine learning applications.
 
 
 # List each interest with a dash
@@ -45,21 +45,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ilgee@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ihong39@gatech.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://kr.linkedin.com/in/ilgee-hong-01a206207
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ilgee@uchicago.edu"
+email: "ihong39@gatech.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Master Students
 ---
-Ilgee Hong is a master student in the Statistics department at UChicago, working with [Mladen Kolar](/authors/mladen-kolar) and [Sen Na](/authors/sen-na) on randomized numerical methods, with an emphasis on machine learning applications.
+Ilgee Hong was a master student in the Statistics department at UChicago, working with [Mladen Kolar](/authors/mladen-kolar) and [Sen Na](/authors/sen-na) on randomized numerical methods, with an emphasis on machine learning applications.
 \
 \
 [>> Personal website](https://ilgeehong.github.io/)

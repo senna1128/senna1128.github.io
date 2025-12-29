@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Preprints"
-subtitle = "Under review"
+title = "Selected Preprints"
+subtitle = "[All preprints >>](/publication/#3)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication

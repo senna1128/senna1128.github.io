@@ -16,7 +16,7 @@ subtitle = "[List of all papers >>](papers/)"
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 10
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -26,6 +26,10 @@ subtitle = "[List of all papers >>](papers/)"
     tag = ""
     category = ""
     publication_type = ""
+  [content.archive]
+     enable = false
+     text = "all publications"
+     link = "/publication/#2"
 
 [design]
   # Toggle between the various page layout types.

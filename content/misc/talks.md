@@ -59,6 +59,10 @@ subtitle = ""
 
 <font size="3">
 <ol reversed>
+<li> INFOROMS Annual Meeting <span style="float:right;">Atlanta, Oct. 2025</span>
+</li>
+<li> ICCOPT <span style="float:right;">Los Angeles, July 2025</span>
+</li>
 <li> UC Berkeley (biostatistics seminar) <span style="float:right;">Berkeley, Apr. 2024</span>
 </li>
 <li> Stanford University (optimization seminar) <span style="float:right;">Stanford, Mar. 2024</span>
