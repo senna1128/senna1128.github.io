@@ -61,21 +61,41 @@ subtitle = ""
 
 ### ● PhD Students
 
-#### Georgia Tech
-- <font size="3"> [Xinchen Du](https://morning-du.github.io/) (ISyE) </font>
-- <font size="3"> Haoxuan Wang (ISyE) </font>
-- <font size="3"> Jianliang Ye (Math) </font>
+<div style="display: flex; gap: 0; flex-wrap: wrap;">
 
-#### Other Institutions  <span style="font-weight: normal; font size=3">(work together with their home advisors)</span>
-- <font size="3"> Yufei Fan (USC, Marshall) </font>
-- <font size="3"> Xiaoran Cheng (Penn State, Stats) </font>
-- <font size="3"> [Yuchen Fang](https://ychenfang.github.io/) (UC Berkeley, Math) </font>
+<div style="flex: 1; min-width: 200px;">
 
-### ● Undergraduate Students
+<h4 style="margin-top: 0.1rem;"> Georgia Tech</h4>
+
+- <font size="3"> [Xinchen Du](https://morning-du.github.io/) (ISyE) </font>  
+- <font size="3"> Haoxuan Wang (ISyE) </font>  
+- <font size="3"> Jianliang Ye (Math) </font>  
+
+</div>
+
+<div style="flex: 1; min-width: 460px; margin-left: -5rem;">
+
+<h4 style="margin-top: 0.1rem;">
+  Other Institutions
+  <span style="font-weight: normal; font-size: 0.79rem;">
+    (work with their home advisors)
+  </span>
+</h4>
+
+- <font size="3"> Yufei Fan (USC, Marshall)</font>  
+- <font size="3"> Xiaoran Cheng (Penn State, Stats)</font>  
+- <font size="3"> [Yuchen Fang](https://ychenfang.github.io/)</a> (UC Berkeley, Math)</font>
+
+</div>
+
+</div>
+
+<h3 style="margin-top: 0.5rem;">● Undergraduate Students</h3>
+
 - <font size="3"> Jingrong Guan (Shanghai Tech, Math) </font>
 
+<h3 style="margin-top: 0.5rem;">● Past Students</h3>
 
-### ● Past Students
 {{< table path="students.csv" header="true" caption="">}}
 
 
