@@ -58,10 +58,10 @@ subtitle = ""
 +++
 ## Instructor <span style="float:right;">Georgia Tech</span>
 - <font size="3">ISyE 6663: Nonlinear Optimization </font> <br>
-2025 Spring (4.45/5)
+2025 Spring
 
 - <font size="3">ISyE 6414: Regression Analysis </font> <br>
-2025 Fall (4.35/5), 2026 Spring
+2025 Fall, 2026 Spring
 
 - <font size="3">ISyE 7401: Advanced Statistical Modeling </font> <br>
 2026 Spring
