@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>You-Lin Chen | SEN NA</title>
+    <link>http://localhost:1313/authors/you-lin-chen/</link>
+      <atom:link href="http://localhost:1313/authors/you-lin-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>You-Lin Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/you-lin-chen/avatar_hu_14cd3d9b3aeb13c8.jpg</url>
+      <title>You-Lin Chen</title>
+      <link>http://localhost:1313/authors/you-lin-chen/</link>
+    </image>
+    
+    <item>
+      <title>Convergence Analysis of Accelerated Stochastic Gradient Descent under the Growth Condition</title>
+      <link>http://localhost:1313/publication/pubs/chen-2023-convergence/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/chen-2023-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You-Lin Chen</title>
+      <link>http://localhost:1313/authors/you-lin-chen/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/you-lin-chen/</guid>
+      <description>&lt;p&gt;You-Lin Chen was a statistics PhD candidate at the University of Chicago. He pursues his research interests in machine learning, stochastic and non-convex optimization, high-dimensional statistics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://voices.uchicago.edu/ylchen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Personal webpage&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

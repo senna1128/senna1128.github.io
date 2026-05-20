@@ -1,6 +1,6 @@
 ---
 title: Constrained Optimization via Exact Augmented Lagrangian and Randomized Iterative Sketching
-date: '2023-05'
+date: '2023-05-01'
 publishDate: '2023-05-31'
 authors:
 - Ilgee Hong

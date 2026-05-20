@@ -1,6 +1,6 @@
 ---
 title: Online Statistical Inference for Proximal Stochastic Gradient Descent under Markovian Sampling
-date: '2025-10'
+date: '2025-10-01'
 publishDate: '2025-10-01'
 authors:
 - Xinchen Du

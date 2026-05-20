@@ -5,7 +5,20 @@
   <tbody>
   {{ $url := (index .Params 0) }}
 {{ $sep := "," }}
-{{ range $row_i, $row := getCSV $sep $url }}
+{{ $opts := dict "delimiter" $sep "format" "csv" "targetType" "slice" }}
+{{ $rows := slice }}
+{{ if strings.HasPrefix $url "http" }}
+  {{ with try (resources.GetRemote $url) }}
+    {{ with .Err }}
+      {{ errorf "Unable to fetch remote CSV %q: %s" $url . }}
+    {{ else with .Value }}
+      {{ $rows = transform.Unmarshal $opts . }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $rows = transform.Unmarshal $opts (readFile $url) }}
+{{ end }}
+{{ range $row_i, $row := $rows }}
 <tr>
   {{ range $col_i, $col := $row }}
 <td>{{ $col }}</td>

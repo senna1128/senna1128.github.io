@@ -57,7 +57,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<font size="3"> I am super fortunate to closely work with a number of **highly motivated and talented students** from diverse backgrounds on various topics in statistics, optimization, and machine learning.</font>
+<font size="5"> I am super fortunate to closely work with a number of **highly motivated and talented students** from diverse backgrounds on various topics in statistics, optimization, and machine learning.</font>
 
 ### ● PhD Students
 
@@ -67,9 +67,11 @@ subtitle = ""
 
 <h4 style="margin-top: 0.1rem;"> Georgia Tech</h4>
 
-- <font size="3"> [Xinchen Du](https://morning-du.github.io/) (ISyE) </font>  
-- <font size="3"> Haoxuan Wang (ISyE) </font>  
-- <font size="3"> Jianliang Ye (Math) </font>  
+- <font size="4"> [Xinchen Du](https://morning-du.github.io/) (ISyE) </font>  
+- <font size="4"> Yanzhihong Hu (Math) </font>  
+- <font size="4"> [Yandong Luo](https://www.yandongluo.com/) (AE) </font>  
+- <font size="4"> Haoxuan Wang (ISyE) </font>  
+- <font size="4"> Jianliang Ye (Math) </font>  
 
 </div>
 
@@ -82,18 +84,19 @@ subtitle = ""
   </span>
 </h4>
 
-- <font size="3"> Yufei Fan (USC, Marshall)</font>  
-- <font size="3"> Xiaoran Cheng (Penn State, Stats)</font>  
-- <font size="3"> [Yuchen Fang](https://ychenfang.github.io/)</a> (UC Berkeley, Math)</font>
+- <font size="4"> Xiaoran Cheng (Penn State, Stats)</font>  
+- <font size="4"> Yufei Fan (USC, Marshall)</font>  
+- <font size="4"> [Yuchen Fang](https://ychenfang.github.io/)</a> (UC Berkeley, Math)</font>
 
 </div>
 
 </div>
 
+<!--
 <h3 style="margin-top: 0.5rem;">● Undergraduate Students</h3>
 
 - <font size="3"> Jingrong Guan (Shanghai Tech, Math) </font>
-
+-->
 <h3 style="margin-top: 0.5rem;">● Past Students</h3>
 
 {{< table path="students.csv" header="true" caption="">}}

@@ -57,29 +57,28 @@ subtitle = ""
  css_class = ""
 +++
 ## Instructor <span style="float:right;">Georgia Tech</span>
-- <font size="3">ISyE 6663: Nonlinear Optimization </font> <br>
-2025 Spring
+- <font size="5">ISyE 6663: Nonlinear Optimization </font> <br>
+<font size="4">2025 Spring</font> <br>
 
-- <font size="3">ISyE 6414: Regression Analysis </font> <br>
-2025 Fall, 2026 Spring
+- <font size="5">ISyE 6414: Regression Analysis </font> <br>
+<font size="4">2025 Fall, 2026 Spring</font> <br>
 
-- <font size="3">ISyE 7401: Advanced Statistical Modeling </font> <br>
-2026 Spring
+- <font size="5">ISyE 7401: Advanced Statistical Modeling </font> <br>
+<font size="4">2026 Spring</font> <br>
 
 
 ## Teaching Assistant <span style="float:right;">UChicago</span>
-- <font size="3">STAT 234: Statistical Models and Method </font> <br>
-Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/), Linda Brant Collins
+- <font size="5">STAT 234: Statistical Models and Method </font> <br>
+<font size="4">Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/), Linda Brant Collins</font> <br>
 
-- <font size="3"> STAT 244: Statistical Theory and Method I </font><br>
-Instructor: [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/)
+- <font size="5"> STAT 244: Statistical Theory and Method I </font><br>
+<font size="4">Instructor: [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/)</font> <br>
 
-- <font size="3"> STAT 245: Statistical Theory and Method II </font><br>
-Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/)
+- <font size="5"> STAT 245: Statistical Theory and Method II </font><br>
+<font size="4">Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/)</font> <br>
 
-- <font size="3"> STAT 315: Stochastic Simulation</font><br>
-Instructor: [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/)
+- <font size="5"> STAT 315: Stochastic Simulation</font><br>
+<font size="4">Instructor: [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/)</font> <br>
 
-- <font size="3"> STAT 376: Machine Learning and Large-Scale Data Analysis </font><br>
-Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/)
-
+- <font size="5"> STAT 376: Machine Learning and Large-Scale Data Analysis </font><br>
+<font size="4">Instructor: [Yali Amit](https://www.stat.uchicago.edu/~amit/)</font> <br>

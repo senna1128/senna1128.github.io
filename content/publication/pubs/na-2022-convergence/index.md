@@ -18,7 +18,7 @@ tags: [math.OC, math.DS, cs.LG, recent]
 categories: []
 date: '2022-11-01'
 lastmod: 2023-02-28T22:29:02-08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

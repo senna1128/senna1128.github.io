@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Sen Na
-- Michał Dereziński
+- michał-derezinski
 - Michael W. Mahoney
 tags: [math.OC, cs.LG, stat.ML, recent]
 categories: []

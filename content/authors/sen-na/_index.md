@@ -45,9 +45,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=nwLgyLMAAAAJ&view_op=list_works&sortby=pubdate
-- icon: github
-  icon_pack: fab
-  link: https://github.com/senna1128
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7977-5276
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sen-na-38a8a9132/
@@ -64,7 +64,6 @@ user_groups:
 last_name: Na
 highlight_name: true
 first_name: Sen
-email: "senna@gatech.edu"
 
 #use {style="text-align: justify;"} for text align below
 ---

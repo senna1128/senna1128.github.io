@@ -45,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: compact
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
@@ -70,7 +70,6 @@ More specifically, my constrained problems have the following components:
 
 
 <!--- Due to the nonlinearity of the constraints, projected first-order methods are inapplicable. Thus, my primary focus is on second-order primal-dual methods, where Hessians are allowed to be approximated imprecisely. ---> 
-
 
 
 

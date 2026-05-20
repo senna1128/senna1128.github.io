@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oluwasanmi Koyejo | SEN NA</title>
+    <link>http://localhost:1313/authors/oluwasanmi-koyejo/</link>
+      <atom:link href="http://localhost:1313/authors/oluwasanmi-koyejo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oluwasanmi Koyejo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/oluwasanmi-koyejo/avatar_hu_a88df80716a7d18e.jpg</url>
+      <title>Oluwasanmi Koyejo</title>
+      <link>http://localhost:1313/authors/oluwasanmi-koyejo/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Differential Latent Variable Graphical Models with Applications to Brain Connectivity</title>
+      <link>http://localhost:1313/publication/pubs/na-2020-estimating/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2020-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oluwasanmi Koyejo</title>
+      <link>http://localhost:1313/authors/oluwasanmi-koyejo/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/oluwasanmi-koyejo/</guid>
+      <description>&lt;p&gt;Sanmi Koyejo is an Assistant Professor in the Department of Computer Science at Stanford University. Koyejo&amp;rsquo;s research interests are in developing the principles and practice of trustworthy machine learning. Additionally, Koyejo focuses on applications to neuroscience and healthcare. Koyejo has been the recipient of several awards, including a best paper award from the conference on uncertainty in artificial intelligence (UAI), a Skip Ellis Early Career Award, and a Sloan Fellowship.
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://cs.stanford.edu/~sanmi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;raquo; Personal website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

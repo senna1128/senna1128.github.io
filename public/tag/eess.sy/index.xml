@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eess.SY | SEN NA</title>
+    <link>http://localhost:1313/tag/eess.sy/</link>
+      <atom:link href="http://localhost:1313/tag/eess.sy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eess.SY</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_5df80dcfa93b83f5.png</url>
+      <title>Eess.SY</title>
+      <link>http://localhost:1313/tag/eess.sy/</link>
+    </image>
+    
+    <item>
+      <title>Near-Optimal Performance of Stochastic Model Predictive Control</title>
+      <link>http://localhost:1313/publication/pubs/shin-2026-optimal/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/shin-2026-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superconvergence of Online Optimization for Model Predictive Control</title>
+      <link>http://localhost:1313/publication/pubs/na-2023-superconvergence/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2023-superconvergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Convergence of Online Optimization for Nonlinear Model Predictive Control</title>
+      <link>http://localhost:1313/publication/pubs/na-2021-global/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2021-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Decay in the Sensitivity Analysis of Nonlinear Dynamic Programming</title>
+      <link>http://localhost:1313/publication/pubs/na-2020-exponential/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2020-exponential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

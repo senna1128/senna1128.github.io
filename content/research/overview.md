@@ -45,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: compact
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
@@ -63,7 +63,6 @@ Currently, my research focuses on the following concrete topics:
 * Machine learning with physics-informed constraints 
 * Stochastic real-time optimal control \& model predictive control 
 * Semiparametric graphical models 
-
 
 
 

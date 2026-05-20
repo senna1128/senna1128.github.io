@@ -1,6 +1,6 @@
 ---
 title: Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models
-date: '2024-09'
+date: '2024-09-01'
 authors:
 - Yuchen Fang
 - Sen Na

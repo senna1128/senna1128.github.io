@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math.DS | SEN NA</title>
+    <link>http://localhost:1313/tag/math.ds/</link>
+      <atom:link href="http://localhost:1313/tag/math.ds/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math.DS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_5df80dcfa93b83f5.png</url>
+      <title>Math.DS</title>
+      <link>http://localhost:1313/tag/math.ds/</link>
+    </image>
+    
+    <item>
+      <title>Overlapping Schwarz Scheme for Linear-Quadratic Programs in Continuous Time</title>
+      <link>http://localhost:1313/publication/preprints/zhao-2025-overlapping/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprints/zhao-2025-overlapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Temporal Decomposition Procedure for Long-horizon Nonlinear Dynamic Programming</title>
+      <link>http://localhost:1313/publication/pubs/na-2023-fast/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2023-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superconvergence of Online Optimization for Model Predictive Control</title>
+      <link>http://localhost:1313/publication/pubs/na-2023-superconvergence/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2023-superconvergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence of Overlapping Schwarz Decomposition for Nonlinear Optimal Control</title>
+      <link>http://localhost:1313/publication/pubs/na-2022-convergence/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2022-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Convergence of Online Optimization for Nonlinear Model Predictive Control</title>
+      <link>http://localhost:1313/publication/pubs/na-2021-global/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2021-global/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

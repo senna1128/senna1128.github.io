@@ -1,6 +1,6 @@
 ---
 title: Statistical Inference of Constrained Model Estimation via Derivative-Free Stochastic Sequential Quadratic Programming
-date: '2025-09'
+date: '2025-09-01'
 publishDate: '2025-09-01'
 authors:
 - Jianliang Ye

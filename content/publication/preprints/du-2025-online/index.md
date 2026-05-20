@@ -1,6 +1,6 @@
 ---
 title: Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling
-date: '2025-05'
+date: '2025-05-01'
 publishDate: '2025-05-01'
 authors:
 - Xinchen Du
@@ -9,7 +9,7 @@ authors:
 - Sen Na
 tags: [stat.ML, cs.LG, math.NA, math.OC, math.ST, stat.CO]
 categories: []
-featured: false
+featured: true
 draft: false
 projects: []
 

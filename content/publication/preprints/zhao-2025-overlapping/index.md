@@ -12,7 +12,7 @@ tags: [math.OC, cs.CE, cs.DC, math.DS, math.NA]
 categories: []
 date: '2025-10-12'
 lastmod: 2023-02-28T14:15:08-08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

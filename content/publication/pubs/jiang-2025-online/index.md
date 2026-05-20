@@ -1,7 +1,5 @@
 ---
 title: Online Covariance Estimation in Nonsmooth Stochastic Approximation
-date: '2025-03-01'
-publishDate: '2023-02-28'
 authors:
 - Liwei Jiang
 - Abhishek Roy 
@@ -16,7 +14,7 @@ tags: [stat.ML, cs.LG, math.OC, recent]
 categories: []
 date: '2025-03-02'
 lastmod: 2023-03-02T11:36:26-08:00
-featured: false
+featured: true
 draft: false
 
 projects: []

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Kuang | SEN NA</title>
+    <link>http://localhost:1313/authors/wei-kuang/</link>
+      <atom:link href="http://localhost:1313/authors/wei-kuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Kuang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/wei-kuang/avatar_hu_f1d132c73413cb33.jpg</url>
+      <title>Wei Kuang</title>
+      <link>http://localhost:1313/authors/wei-kuang/</link>
+    </image>
+    
+    <item>
+      <title>Online Covariance Matrix Estimation in Sketched Newton Methods</title>
+      <link>http://localhost:1313/publication/pubs/kuang-2026-online/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/kuang-2026-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Kuang</title>
+      <link>http://localhost:1313/authors/wei-kuang/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/wei-kuang/</guid>
+      <description>&lt;p&gt;Wei Kuang was a PhD student in the Statistics department at UChicago, working with &lt;a href=&#34;http://localhost:1313/authors/mihai-anitescu&#34;&gt;Mihai Anitescu&lt;/a&gt; (supervisor) and &lt;a href=&#34;http://localhost:1313/author/sen-na&#34;&gt;Sen Na&lt;/a&gt; on randomized second-order methods, with an emphasis on the uncertainty quantification and statistical inference aspects.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

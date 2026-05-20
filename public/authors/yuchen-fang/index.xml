@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchen Fang | SEN NA</title>
+    <link>http://localhost:1313/authors/yuchen-fang/</link>
+      <atom:link href="http://localhost:1313/authors/yuchen-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchen Fang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/yuchen-fang/avatar_hu_c808840d1e3e034b.jpg</url>
+      <title>Yuchen Fang</title>
+      <link>http://localhost:1313/authors/yuchen-fang/</link>
+    </image>
+    
+    <item>
+      <title>A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming Method</title>
+      <link>http://localhost:1313/publication/preprints/fang-2026-trust-region-interior-point/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprints/fang-2026-trust-region-interior-point/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuchen Fang</title>
+      <link>http://localhost:1313/authors/yuchen-fang/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/yuchen-fang/</guid>
+      <description>&lt;p&gt;Yuchen Fang is a PhD student in the mathematics department at UC Berkeley. He was a master student in the Computational and Applied Math program at UChicago, where he worked with &lt;a href=&#34;http://localhost:1313/authors/mladen-kolar&#34;&gt;Mladen Kolar&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/authors/sen-na&#34;&gt;Sen Na&lt;/a&gt; on stochastic nonlinear optimization. His research interests include numerical linear algebra, high-dimensional statistics, statistical learning, and mathematical finance.
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://ychenfang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;raquo; Personal website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise</title>
+      <link>http://localhost:1313/publication/pubs/fang-2026-high/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/fang-2026-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models</title>
+      <link>http://localhost:1313/publication/preprints/fang-2024-trust/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprints/fang-2024-trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems</title>
+      <link>http://localhost:1313/publication/pubs/fang-2024-fully/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/fang-2024-fully/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

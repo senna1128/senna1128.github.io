@@ -59,6 +59,7 @@ subtitle = ""
 
 I have served as a referee for several prestigious journals in the fields of mathematics, statistics, and optimization, including:
 
+- Nature Communications
 - Journal of Machine Learning Research 
 - IMA Journal of Numerical Analysis
 - Mathematics of Operations Research

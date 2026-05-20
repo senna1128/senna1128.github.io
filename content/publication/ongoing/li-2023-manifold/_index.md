@@ -1,6 +1,6 @@
 ---
 title: A Theoretically Sound Sequential Quadratic Programming Algorithm On Riemannian Manifolds
-date: '2023-02'
+date: '2023-02-01'
 publishDate: '2023-02-26'
 authors:
 - Miao Li
@@ -14,6 +14,7 @@ We design a Sequential Quadratic Programming (SQP) algorithm for solving equalit
 We investigate the performance of the algorithm on minimum balanced cut and fixed-rank matrix completion problems. **(Full details will be revealed soon.)**
 '
 featured: false
+draft: true
 publication: ''
 tags: [math.OC, cs.NA, math.NA, stat.CO, stat.ML]
 #url_code: 

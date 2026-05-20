@@ -1,0 +1,24 @@
+// Keep publication action buttons evenly spaced regardless of HTML minification.
+.btn-links {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 8px;
+  row-gap: 0;
+}
+
+.btn-links .btn-page-header {
+  margin: 8px 0;
+}
+
+@media (min-width: 992px) {
+  #mentoring .table {
+    font-size: 0.85rem;
+  }
+
+  #mentoring .table th,
+  #mentoring .table td {
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+    white-space: nowrap;
+  }
+}

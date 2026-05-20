@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math.ST | SEN NA</title>
+    <link>http://localhost:1313/tag/math.st/</link>
+      <atom:link href="http://localhost:1313/tag/math.st/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math.ST</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_5df80dcfa93b83f5.png</url>
+      <title>Math.ST</title>
+      <link>http://localhost:1313/tag/math.st/</link>
+    </image>
+    
+    <item>
+      <title>Derivative-Free Sequential Quadratic Programming for Equality-Constrained Stochastic Optimization</title>
+      <link>http://localhost:1313/publication/pubs/na-2026-derivative/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2026-derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling</title>
+      <link>http://localhost:1313/publication/preprints/du-2025-online/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprints/du-2025-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-dimensional Index Volatility Models via Stein&#39;s Identity</title>
+      <link>http://localhost:1313/publication/pubs/na-2021-high/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Differential Latent Variable Graphical Models with Applications to Brain Connectivity</title>
+      <link>http://localhost:1313/publication/pubs/na-2020-estimating/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pubs/na-2020-estimating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
