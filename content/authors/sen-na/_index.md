@@ -53,7 +53,7 @@ social:
   link: https://www.linkedin.com/in/sen-na-38a8a9132/
 - icon: cv
   icon_pack: ai
-  link: uploads/CV_SenNa.pdf
+  link: https://senna1128.github.io/uploads/CV_SenNa.pdf
   
 email: "senna@gatech.edu"
 
