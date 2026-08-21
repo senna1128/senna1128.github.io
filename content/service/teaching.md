@@ -57,11 +57,17 @@ subtitle = ""
  css_class = ""
 +++
 ## Instructor <span style="float:right;">Georgia Tech</span>
-- <font size="5">ISyE 6663: Nonlinear Optimization </font> <br>
-<font size="4">2025 Spring</font> <br>
+- <font size="5">ISyE 4031: Regression and Forecasting </font> <br>
+<font size="4">2026 Fall</font> <br>
+
+- <font size="5">ISyE 6412: Theoretical Statistics </font> <br>
+<font size="4">2026 Fall</font> <br>
 
 - <font size="5">ISyE 6414: Regression Analysis </font> <br>
 <font size="4">2025 Fall, 2026 Spring</font> <br>
+
+- <font size="5">ISyE 6663: Nonlinear Optimization </font> <br>
+<font size="4">2025 Spring</font> <br>
 
 - <font size="5">ISyE 7401: Advanced Statistical Modeling </font> <br>
 <font size="4">2026 Spring</font> <br>

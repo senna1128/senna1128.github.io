@@ -68,7 +68,6 @@ subtitle = ""
 <h4 style="margin-top: 0.1rem;"> Georgia Tech</h4>
 
 - <font size="4"> [Xinchen Du](https://morning-du.github.io/) (ISyE) </font>  
-- <font size="4"> Yanzhihong Hu (Math) </font>  
 - <font size="4"> [Yandong Luo](https://www.yandongluo.com/) (AE) </font>  
 - <font size="4"> Haoxuan Wang (ISyE) </font>  
 - <font size="4"> Jianliang Ye (Math) </font>  
@@ -100,5 +99,4 @@ subtitle = ""
 <h3 style="margin-top: 0.5rem;">● Past Students</h3>
 
 {{< table path="students.csv" header="true" caption="">}}
-
 

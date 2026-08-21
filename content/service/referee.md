@@ -64,6 +64,8 @@ I have served as a referee for several prestigious journals in the fields of mat
 - IMA Journal of Numerical Analysis
 - Mathematics of Operations Research
 - Mathematical Programming
+- Computational Optimization and Applications
+- Journal of Optimization Theory and Applications
 - SIAM Journal on Scientific Computing
 - SIAM Journal on Optimization
 - Journal of Computational and Graphical Statistics
@@ -71,6 +73,5 @@ I have served as a referee for several prestigious journals in the fields of mat
 - Statistics & Probability Letters
 
 I also actively serve as a reviewer for various machine learning conferences, such as NeurIPS, ICML, ICLR, IJCAI, AIStats, and more.
-
 
 

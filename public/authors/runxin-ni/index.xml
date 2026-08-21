@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Runxin Ni | SEN NA</title>
+    <link>http://localhost:1313/authors/runxin-ni/</link>
+      <atom:link href="http://localhost:1313/authors/runxin-ni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Runxin Ni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_5df80dcfa93b83f5.png</url>
+      <title>Runxin Ni</title>
+      <link>http://localhost:1313/authors/runxin-ni/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Sequential Quadratic Programming with Overlapping Graph Decomposition and Exact Augmented Lagrangian</title>
+      <link>http://localhost:1313/publication/preprints/ni-2024-distributed/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprints/ni-2024-distributed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

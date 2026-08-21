@@ -59,7 +59,15 @@ subtitle = ""
 
 <font size="3">
 <ol reversed>
-<li> INFOROMS Annual Meeting <span style="float:right;">Atlanta, Oct. 2025</span>
+<li> INFORMS Annual Meeting <span style="float:right;">San Francisco, Nov. 2026</span>
+</li>
+<li> Georgia Statistics Day <span style="float:right;">Atlanta, Oct. 2026</span>
+</li>
+<li> ICSA Applied Statistics Symposium <span style="float:right;">Arlington, June 2026</span>
+</li>
+<li> INFORMS Optimization Society Conference <span style="float:right;">Atlanta, Mar. 2026</span>
+</li>
+<li> INFORMS Annual Meeting <span style="float:right;">Atlanta, Oct. 2025</span>
 </li>
 <li> ICCOPT <span style="float:right;">Los Angeles, July 2025</span>
 </li>
@@ -78,6 +86,3 @@ subtitle = ""
 <li> Summer Student Mini-Symposium, Argonne <span style="float:right;">Lemont, Sept. 2018-2020</span>
 </ol>
 </font> 
-
-
-

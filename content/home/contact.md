@@ -22,10 +22,10 @@ content:
   email: senna@gatech.edu
   phone: 
   address:
-    street: 765 Ferst Dr NW Room 338
+    street: 55 5th Street NW, George Tower 1743
     city: Atlanta
     region: GA
-    postcode: '30318'
+    postcode: '30332-0205'
     country: United States
     country_code: US
   coordinates:

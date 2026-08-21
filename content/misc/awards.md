@@ -56,6 +56,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- <font size="3"> **NSF Travel Award** <span style="float:right;">Supported by DMS-2603665, 2026</span> <br> </font>
+
 - <font size="3"> **MAPR Meritorious Service Award** <span style="float:right;">Math Opt Society, 2023</span> <br> </font>
 
 - <font size="3"> **ORIE Young Researcher** <span style="float:right;">Cornell University, 2023</span> <br> </font>
@@ -63,10 +65,9 @@ subtitle = ""
 - <font size="3"> **SDSS Student & Early Career Award** <span style="float:right;">ASA, 2023</span> <br> </font>
 
 - <font size="3"> **Harper Dissertation Fellowship** <span style="float:right;">UChicago, 2020</span> <br> </font>
-*(one of the highest honors at UChicago in recognition of Ph.D. candidates' record of achievement and
-professional promise.)*
+<span style="font-size: 0.85em;"><em>(one of the highest honors at UChicago in recognition of Ph.D. candidates' record of achievement and professional promise.)</em></span><br>
 - <font size="3"> **Bao-Steel Scholarship** <span style="float:right;">Nanjing University, 2016</span> <br> </font>
-*(one of the highest national honors given to undergraduate students for academic performance.)* 
+<span style="font-size: 0.85em;"><em>(one of the highest national honors given to undergraduate students for academic performance.)</em></span><br>
 
 - <font size="3"> **Outstanding Graduate** <span style="float:right;">Nanjing University, 2016</span> <br> </font>
 
@@ -75,5 +76,3 @@ professional promise.)*
 - <font size="3"> **Electronics Technology Scholarship** <span style="float:right;">Nanjing University, 2014</span> <br> </font>
 
 - <font size="3"> **Aolei Scholarship** <span style="float:right;">Nanjing University, 2013</span> <br> </font>
-
-
