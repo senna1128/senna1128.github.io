@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://senna1128.github.io/sitemap.xml
