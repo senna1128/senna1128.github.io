@@ -66,6 +66,26 @@
     <lastmod>2026-08-21T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tag/cs.ro/</loc>
+    <lastmod>2026-08-21T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/eess.sy/</loc>
+    <lastmod>2026-08-21T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/authors/lu-gan/</loc>
+    <lastmod>2026-08-21T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/pubs/sasaki-2026-multiple-shooting/</loc>
+    <lastmod>2026-08-21T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/authors/tomohiro-sasaki/</loc>
+    <lastmod>2026-08-21T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,10 +179,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tag/cs.sy/</loc>
-    <lastmod>2023-02-28T22:18:31-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tag/eess.sy/</loc>
     <lastmod>2023-02-28T22:18:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

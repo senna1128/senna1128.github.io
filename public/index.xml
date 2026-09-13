@@ -5,12 +5,20 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>SEN NA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_5df80dcfa93b83f5.png</url>
       <title>SEN NA</title>
       <link>http://localhost:1313/</link>
     </image>
+    
+    <item>
+      <title>cuEvo: Massively Parallel Interaction-Aware Evolutionary Planning on GPUs for Real-Time Urban Driving</title>
+      <link>http://localhost:1313/publication/ongoing/luo-2026-cuevo/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ongoing/luo-2026-cuevo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Overlapping Schwarz Scheme for Linear-Quadratic Programs in Continuous Time</title>
